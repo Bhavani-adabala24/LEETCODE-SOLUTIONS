@@ -20,12 +20,14 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0877-stone-game](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0877-stone-game](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 ## Minimax
 |  |
