@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
@@ -46,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
