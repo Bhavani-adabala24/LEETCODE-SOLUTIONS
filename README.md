@@ -11,6 +11,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [2396-strictly-palindromic-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -22,6 +23,7 @@
 | [0118-pascals-triangle](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -69,4 +71,20 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
