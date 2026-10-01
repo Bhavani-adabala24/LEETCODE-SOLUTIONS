@@ -57,4 +57,16 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
