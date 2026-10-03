@@ -23,6 +23,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 ## Minimax
 |  |
