@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [3210-find-the-encrypted-string](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/3210-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
