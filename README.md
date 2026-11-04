@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0877-stone-game](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Two Pointers
 |  |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
