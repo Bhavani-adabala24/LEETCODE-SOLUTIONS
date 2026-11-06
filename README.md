@@ -13,6 +13,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2396-strictly-palindromic-number) |
@@ -23,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
