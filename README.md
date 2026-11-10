@@ -36,6 +36,7 @@
 | [0229-majority-element-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
+| [1267-count-servers-that-communicate](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [1267-count-servers-that-communicate](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 ## Geometry
 |  |
 | ------- |
@@ -116,4 +119,16 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
