@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3210-find-the-encrypted-string](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/3210-find-the-encrypted-string) |
 ## Stack
 |  |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
