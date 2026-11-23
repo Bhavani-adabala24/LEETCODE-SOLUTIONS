@@ -36,6 +36,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0506-relative-ranks](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0506-relative-ranks) |
 | [0877-stone-game](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1267-count-servers-that-communicate](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
+| [0506-relative-ranks](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0506-relative-ranks) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
