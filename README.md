@@ -9,6 +9,7 @@
 | [0877-stone-game](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@
 | [0877-stone-game](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
 | [1267-count-servers-that-communicate](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
