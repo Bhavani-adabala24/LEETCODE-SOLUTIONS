@@ -37,6 +37,7 @@
 | [0229-majority-element-ii](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0877-stone-game](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0877-stone-game) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1267-count-servers-that-communicate](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Bhavani-adabala24/LEETCODE-SOLUTIONS/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Pigeonhole Principle
 |  |
 | ------- |
